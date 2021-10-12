@@ -102,10 +102,10 @@ analytics:
 # Site Author
 author:
   name             : "박정연"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/뵤뵥.png"
   bio              : "HAFS 16 인문"
-  location         : "대한민국, 용인, 처인구, 모현"
-  email            : "21-20313@hafs.hs.kr"
+  location         : "모현, 처인구, 용인, 대한민국"
+  email            : # "21-20313@hafs.hs.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
